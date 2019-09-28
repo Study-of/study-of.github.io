@@ -15,7 +15,7 @@
         margin-bottom: 0;
     }
     
-    p:nth-child(odd) {
+    p:nth-child(odd):not(:last-child) {
         float: left;
         width: 2rem;
         font-weight: bold;
