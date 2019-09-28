@@ -4,9 +4,7 @@ title: You're up and running!
 published: true
 ---
 
----
-date: 2014-09-28
----
+### _Published: 2014-09-28_
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
