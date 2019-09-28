@@ -17,29 +17,29 @@ When Christ presented to the Isrealites at Mount Sinai, they where instructed to
 So if God has told us to "do", that implies that we "can" and "should" obey. What does that mean? That I do not murder people? Well, yes! But that is not all it means. Because we are told by Christ Himself, that murder is not just the actual act of taking someone's life. Christ even goes on to say that if you have an issue with your "brother" you should reconcile with him before coming to the Lord.
 
 >21
-
+>
 >Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
-
+>
 >22
-
+>
 >But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{raca.link}} "{{raca.define}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
-
+>
 >23
-
+>
 >Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
-
+>
 >24
-
+>
 >Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
-
+>
 >25
-
+>
 >Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
-
+>
 >26
-
+>
 >Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
-
+>
 >[Matthew 5:21-26](https://www.biblegateway.com/passage/?search=Matthew+5:21-26&version=KJV)
 
 
