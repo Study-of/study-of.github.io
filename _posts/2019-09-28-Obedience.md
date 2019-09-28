@@ -1,15 +1,24 @@
 ---
 published: true
+define.raca: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
+raca.link: 'http://webstersdictionary1828.com/Dictionary/raca'
+raca.define: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
 ---
 The concept of obedience is one that we have to study deeper to understand to whom we are to obey, why we are to obey, how are we to obey, can we obey, etc. The Bible is clear that we are to obey, but the devil and theologians are good at confusing us as to what that really means for our daily life.
 
 When Christ presented to the Isrealites at Mount Sinai, they where instructed to obey and keep His commandments, statues, and ordinences. We know from history, that they did not keep them. The Isreal nation was consistently falling into idolitry. For such, Jerusalem was destroyed along with the temple and nearly all of the nation was taken captive to Babylon. You might also think, are we not save by Christ's sacrifice and His eternal grace? Are we not told that nothing we do can save us? While these are true, what is lost in these and other questions similar, is that God did tell us to obey and do his commandments.
 
-So if God has told us to "do", that implies that we "can" and "should" obey. What does that mean? That I do not murder people? Well, yes! But that is not all it means. Because we are told by Christ Himself, that murder is not just the actual act of taking someone's life. 
+
+
+So if God has told us to "do", that implies that we "can" and "should" obey. What does that mean? That I do not murder people? Well, yes! But that is not all it means. Because we are told by Christ Himself, that murder is not just the actual act of taking someone's life. Christ even goes on to say that if you have an issue with your "brother" you should reconcile with him before coming to the Lord.
 
 >21 Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 >
->22 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca](http://webstersdictionary1828.com/Dictionary/raca  "R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt."), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+>22 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{link.raca}} "{{define.raca}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 >
 >23 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 >
@@ -20,6 +29,9 @@ So if God has told us to "do", that implies that we "can" and "should" obey. Wha
 >26 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
 >
 >[Matthew 5:21-26](https://www.biblegateway.com/passage/?search=Matthew+5:21-26&version=KJV)
+
+
+
 
 
 
