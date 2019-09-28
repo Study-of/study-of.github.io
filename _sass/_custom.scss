@@ -1,3 +1,25 @@
 .date {
 	font-size: 1rem;
 }
+
+.post blockquote {
+    font-size: .85rem;
+    margin-left: 3rem;
+    
+    p:first-child, p:nth-child(2) {
+        margin-top: 0;
+    }
+    
+    p:last-child {
+        text-align: right;
+        margin-bottom: 0;
+    }
+    
+    p:nth-child(odd) {
+        float: left;
+        width: 2rem;
+        font-weight: bold;
+    }
+}
+
+
