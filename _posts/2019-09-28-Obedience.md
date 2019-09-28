@@ -18,7 +18,7 @@ So if God has told us to "do", that implies that we "can" and "should" obey. Wha
 
 >21 Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 >
->22 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{link.raca}} "{{define.raca}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+>22 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{raca.link}} "{{raca.define}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 >
 >23 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 >
