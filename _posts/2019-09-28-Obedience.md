@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The concept of obedience is one that we have to study deeper to understand to whom we are to obey, why we are to obey, how are we to obey, can we obey, etc. The Bible is clear that we are to obey, but the devil and theologians are good at confusing us as to what that really means for our daily life.
 
