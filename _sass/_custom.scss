@@ -41,5 +41,7 @@ a[title]:hover::after {
 }
 
 @media print {
-     a[href]:after { " (" attr(href) ") "; }
+     a[href]:after {
+     	  content: " (" attr(href) ") ";
+     }
 }
