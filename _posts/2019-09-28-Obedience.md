@@ -7,6 +7,10 @@ raca.link: 'http://webstersdictionary1828.com/Dictionary/raca'
 raca.define: >-
   R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
   extreme contempt.
+raca_desc: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
+raca_link: 'http://webstersdictionary1828.com/Dictionary/raca'
 ---
 The concept of obedience is one that we have to study deeper to understand to whom we are to obey, why we are to obey, how are we to obey, can we obey, etc. The Bible is clear that we are to obey, but the devil and theologians are good at confusing us as to what that really means for our daily life.
 
@@ -18,7 +22,7 @@ So if God has told us to "do", that implies that we "can" and "should" obey. Wha
 
 >
 **21** Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
-**22** But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{raca.link}} "{{raca.define}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+**22** But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, [Raca]({{raca_link}} "{{raca_desc}}"), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 **23** Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 **24** Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
 **25** Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
