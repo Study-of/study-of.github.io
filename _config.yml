@@ -87,7 +87,10 @@ exclude:
   - CNAME
 
 defaults:
-  values:
-    biblegateway: https://www.biblegateway.com/passage/?version=KJV&search=
-    raca_link: http://webstersdictionary1828.com/Dictionary/raca
-    raca_desc: R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt.
+  -
+    scope:
+      path: ""
+    values:
+      biblegateway: https://www.biblegateway.com/passage/?version=KJV&search=
+      raca_link: http://webstersdictionary1828.com/Dictionary/raca
+      raca_desc: R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt.
