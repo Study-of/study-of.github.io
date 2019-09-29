@@ -6,4 +6,4 @@
 **24** Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
 **25** Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
 **26** Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
-[Matthew 5:21-26]({{biblegateway}}Matthew+{{include.chapter}}:{{include.verses}})
+[Matthew {{include.chapter}}:{{include.verses}}]({{biblegateway}}Matthew+{{include.chapter}}:{{include.verses}})
