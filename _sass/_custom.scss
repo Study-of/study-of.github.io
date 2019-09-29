@@ -29,8 +29,8 @@ a {
 	position: relative;
 }
 
-a[title]:hover::after {
-    content: attr(title);
+a[data-tooltip]:hover::after {
+    content: attr(data-tooltip);
     position: absolute;
     left: 0;
     top: 1rem;
