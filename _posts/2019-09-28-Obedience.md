@@ -1,17 +1,5 @@
 ---
 published: true
-racadefine: >-
-  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
-  extreme contempt.
-racalink: 'http://webstersdictionary1828.com/Dictionary/raca'
-raca_define: >-
-  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
-  extreme contempt.
-raca_link: 'http://webstersdictionary1828.com/Dictionary/raca'
-raca.link: 'http://webstersdictionary1828.com/Dictionary/raca'
-raca.define: >-
-  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
-  extreme contempt.
 ---
 The concept of obedience is one that we have to study deeper to understand to whom we are to obey, why we are to obey, how are we to obey, can we obey, etc. The Bible is clear that we are to obey, but the devil and theologians are good at confusing us as to what that really means for our daily life.
 
