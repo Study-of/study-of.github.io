@@ -27,21 +27,25 @@
 
 a {
 	position: relative;
-}
-
-a[data-tooltip]:hover::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    left: 0;
-    top: 1rem;
-    min-width: 16rem;
-    border: 0.01rem #aaaaaa solid;
-    border-radius: 0.25rem;
-    background-color: #cccccc;
-    padding: 0.25rem;
-    color: #000000;
-    font-size: 0.75rem;
-    z-index: 1;
+    
+    &[data-tooltip]:hover {
+        cursor: help;
+            
+        &::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            left: 0;
+            top: 1rem;
+            min-width: 16rem;
+            border: 0.01rem #aaaaaa solid;
+            border-radius: 0.25rem;
+            background-color: #cccccc;
+            padding: 0.25rem;
+            color: #000000;
+            font-size: 0.75rem;
+            z-index: 1;
+        }
+    }
 }
 
 @media print {
