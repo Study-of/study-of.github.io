@@ -1,11 +1,17 @@
 ---
 published: true
-racadefine: R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt.
-racalink: http://webstersdictionary1828.com/Dictionary/raca
-raca_define: R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt.
-raca_link: http://webstersdictionary1828.com/Dictionary/raca
-raca.link: http://webstersdictionary1828.com/Dictionary/raca
-raca.define: R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of extreme contempt.
+racadefine: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
+racalink: 'http://webstersdictionary1828.com/Dictionary/raca'
+raca_define: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
+raca_link: 'http://webstersdictionary1828.com/Dictionary/raca'
+raca.link: 'http://webstersdictionary1828.com/Dictionary/raca'
+raca.define: >-
+  R'ACA, noun A Syriac word signifying empty, beggarly, foolish; a term of
+  extreme contempt.
 ---
 The concept of obedience is one that we have to study deeper to understand to whom we are to obey, why we are to obey, how are we to obey, can we obey, etc. The Bible is clear that we are to obey, but the devil and theologians are good at confusing us as to what that really means for our daily life.
 
@@ -15,9 +21,7 @@ When Christ presented to the Isrealites at Mount Sinai, they where instructed to
 
 So if God has told us to "do", that implies that we "can" and "should" obey. What does that mean? That I do not murder people? Well, yes! But that is not all it means. Because we are told by Christ Himself, that murder is not just the actual act of taking someone's life. Christ even goes on to say that if you have an issue with your "brother" you should reconcile with him before coming to the Lord.
 
-* {{raca.link}}
 * {{raca_link}}
-* {{racalink}}
 
 >
 **21** Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
@@ -26,4 +30,4 @@ So if God has told us to "do", that implies that we "can" and "should" obey. Wha
 **24** Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
 **25** Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
 **26** Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
-[Matthew 5:21-26](https://www.biblegateway.com/passage/?search=Matthew+5:21-26&version=KJV)
+[Matthew 5:21-26]({{biblegateway}}Matthew+5:21-26)
