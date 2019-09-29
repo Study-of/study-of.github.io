@@ -1,7 +1,7 @@
 {% assign biblegateway = site.data.settings['biblegateway'] %}
 {% assign chapter = include.chapter %}
 {% assign verse = include.verses | split: '-' %}
-{% assign search = 'Matthew+' + chapter + ':' + include.verses %}
+{% assign search = 'Matthew+' | append: chapter | append: ':' | append: include.verses %}
 >
 **21** Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 **22** But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, {% include tooltip.html name="raca" %}, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
