@@ -6,20 +6,40 @@
     font-size: .85rem;
     margin-left: 3rem;
     
-    p:first-child, p:nth-child(2) {
+    p {
         margin-top: 0;
-    }
-    
-    p:last-child {
-        text-align: right;
         margin-bottom: 0;
     }
     
-    p:nth-child(odd):not(:last-child) {
+    strong {
+        clear: left;
+        display: block;
         float: left;
-        width: 2rem;
-        font-weight: bold;
+        width: 1.5rem;
+    }
+    
+    a {
+        text-align: right;
+        clear: left;
+        display: block;
     }
 }
 
+a[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 0;
+    top: 24px;
+    min-width: 200px;
+    border: 1px #aaaaaa solid;
+    border-radius: 10px;
+    background-color: #ffffcc;
+    padding: 12px;
+    color: #000000;
+    font-size: 14px;
+    z-index: 1;
+}
 
+@media print {
+     a[href]:after { " (" attr(href) ") "; }
+}
