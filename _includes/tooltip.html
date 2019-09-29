@@ -1,1 +1,4 @@
-test
+{% assign raca = site.data.dictionary[include.name] %}
+<a href="{{raca.link}}" data-tooltip="{{raca.definition}}" target="_blank">
+  {{raca.name}}
+</a>
