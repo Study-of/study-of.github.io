@@ -1,6 +1,7 @@
 {% assign biblegateway = site.data.settings['biblegateway'] %}
 {% assign begin = include.from | split: ':' %}
 {% assign end = include.to | split: ':' %}
+* {{begin}}-{end}}
 >
 {% if begin[0] <= 5 and end[0] >= 5 and begin[1] <= 21 end[1] >= 21 %}
 **21** Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
