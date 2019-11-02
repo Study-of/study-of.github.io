@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-
+{% assign biblegateway = site.data.settings['biblegateway'] %}
 
 Do you not know that you are the temple of God? It follows that as the temple of God that our bodies should be keep undefiled and holy unto Him. We should not put into our body either through eating or drinking or hearing or seeing, we should not even touch something that would defile our body, the temple of God.
 
@@ -19,9 +19,11 @@ At 240 pounds, that is about 75 pounds overweight. Every time you walk, run, jum
 
 In the fall of 2018 an issue at work came to a head (similar to what a valcano does when it erupts). I and a couple other parties at work began having some serious grevenses towards one another. Right and wrong here was not the issues in question. Discernment and the ability to see in others the value that Christ has for man. I am not sure if the others involved see things the same as I do, and that does not matter. I know now, that God allowed me to go through this situation (and I believe of my own making) so that I can see and feel and know the value He has in other. However, the point is, that my health was so poor, that I could not distingish that I was acting similar to the Jewish leaders. I saw no way that I was wrong or that I did anything wrong. I saw that I was right and I was the one wholely wronged in the matter. I was supported by others I respected and this strenghtend me in my resolve. Anyone tring to give me advise or rebuke to my ideals was dismissed or an argument was made to make their statement unjustified. The evedence was strong and clear that the other party was completely and utterly wrong and I was not. I could not be in anyway apart of the cause.
 
-The desire to be right and dismiss the issue was the primary focus. Again, regardless of right and wrong; I was wrong. Even evil or wicked in my thinking and ways. In this and other things I had come to the same behavior as many, name calling. You think oh, what is wrong with that, but we are commanded not to take the name of the Lord in vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=KJV). How is name calling taking the Lords name in vain? Simple, we are made in the image of God and I claim to be a child of God. As a child of God, I am using his name and acting in a way that is not like Him. And to call something derogatorily or generally to treat someone badly by use of a name that is not theirs or inappropriate, shows our contempt of God Himself and that we are not His. So therefore using His name as ours and spitting on others is breaking the third commandment. There is commentary article on ["The Ten Commandments"](The-Ten-Commandments).
+The desire to be right and dismiss the issue was the primary focus. Again, regardless of right and wrong; I was wrong. Even evil or wicked in my thinking and ways. In this and other things I had come to the same behavior as many, name calling. You think oh, what is wrong with that, but we are commanded not to take the name of the Lord in vain [Exodus 20:7]({{biblegateway}}Exodus+20%3A7). How is name calling taking the Lords name in vain? Simple, we are made in the image of God and I claim to be a child of God. As a child of God, I am using his name and acting in a way that is not like Him. And to call something derogatorily or generally to treat someone badly by use of a name that is not theirs or inappropriate, shows our contempt of God Himself and that we are not His. So therefore using His name as ours and spitting on others is breaking the third commandment. There is commentary article on ["The Ten Commandments"](The-Ten-Commandments).
 
-Before I continue, let me just say, I am not perfect now or do I consider myself to ever have been or will be perfect until the Lord comes. I do believe that we are to be perfect in our spheres of influence as Christ said, > We loved with a love that was more than love
+Before I continue, let me just say, I am not perfect now or do I consider myself to ever have been or will be perfect until the Lord comes. I do believe that we are to be perfect in our spheres of influence as Christ said,
+>
+We loved with a love that was more than love
 But I do not believe we will ever not be able to sin. Read the article on ["Sin No More"](Sin-No-More).
 
 
