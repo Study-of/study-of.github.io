@@ -3,8 +3,7 @@ layout: default
 published: true
 ---
 <div class="posts">
-  {% for category in site.categories['study'] %}
-  {% for post in category[1] %}
+  {% for post in site.categories.study %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">... {{ post.title }} ({{ category[0] }})</a></h2>
@@ -17,6 +16,5 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-  {% endfor %}
   {% endfor %}
 </div>
