@@ -2,9 +2,8 @@
 layout: default
 published: true
 ---
-{% assign section = 'study' %}
 <div class="posts">
-  {% for category in site.categories[section] %}
+  {% for category in site.categories['study'] %}
   {% for post in category[1] %}
     <article class="post">
 
