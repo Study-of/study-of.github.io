@@ -3,10 +3,11 @@ layout: default
 published: true
 ---
 <div class="posts">
-  {% for post in site.posts %}
+  {% for category in site.categories %}
+  {% for post in category[1] %}
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">... {{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">... {{ post.title }} ({{ category[0] }})</a></h2>
       
       <div class="date">Published: {{ post.date | date: "%A, %B %-d, %Y" }}</div>
 
@@ -16,5 +17,6 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+  {% endfor %}
   {% endfor %}
 </div>
