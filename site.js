@@ -1,3 +1,3 @@
 (function() {
-    alert(window.document.location);  
+    //alert(window.document.location);  
 })()
