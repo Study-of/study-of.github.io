@@ -1,13 +1,19 @@
 ---
 published: false
 ---
-What is the Lord's day? Or when is the Sabbath? The current teaching is that the Lord's day is the first day of the week and the Sabbath is Sunday. Can we support this from the Bible? Let us review the passages that deal with Sunday or the first day of the week.
+What is the Lord's day? Or when is the Sabbath? The current teaching is that the Lord's day is the first day of the week and the Sabbath is Sunday. Can this be supported from the Bible?
 
-There are 48 references to the first day of the week in the Bible.
+# Contents
+- Biblical references to the __first day__ of the week.
+- 
 
-1. Reference to the first day as a single day of an evening and morning.
-	- Genesis 1:5
-2. Reference to the first day of a month.
+# Biblical references to the __first day__ of the week.
+
+Since the word Sunday does not appear anywhere in the Bible, we only have the 48 references to the __first day__ of the week to consider. In this list, I include all occurances of the phrase __first day__ so as not to exclude any texts. Let us review the passages that deal with Sunday or the first day of the week.
+
+1. Genesis 1:5 - References the first day as a single day of an evening and morning during creation.
+
+2. Several other texts reference the first day of a month. Such as:
 	- Genesis 8:5, 13
     - Exodus 40:2, 17
     - Leviticus 23:24
@@ -18,33 +24,42 @@ There are 48 references to the first day of the week in the Bible.
     - Nehemiah 8:2
     - Ezekiel 26:1; 29:17; 31:1; 32:1; 45:18
     - Haggai 1:1
-3. The eating of unlevend bread for the Feast of Unlevened Bread. The day's of period of seven days are reference here. So this is the first day of that period through the seventh day of that period.
+
+3. There are several passages that refer to the eating of unlevend bread for the Feast of Unlevened Bread. The day's of this period of seven days are reference here as the first day of that period through the seventh day of that period.
 	- Exodus 12:15-16
     - Leviticus 23:7, 35
     - Numbers 28:18
     - Deuteronomy 16:4
     - Matthew 26:17
     - Mark 14:12
-4. Special period of Sabbaths that are not part of the weekly cycle. So the first day here is again part of that fiest and so not necessarily the first day of the week.
-	- Leviticus 23:39-40
-5. Reference to a sequence of events as days. Here is referenced that they are doing on this second day the same as on the first day they did it. Does not imply or suppose that it was Sunday or Monday.
-	- Judges 20:22
-    - Acts 20:18
-6. A period of time.
+
+4. Leviticus 23:39-40 - Describes serveral special period of Sabbaths that are not part of the weekly cycle. So the first day here is again part of that fiest which could begin at any day during the week and theirfore not necessarily the first day of the week.
+
+5. Judges 20:22 and Acts 20:18 - These verses show a sequence of events, enumerated as days. This does not imply or suppose that it was Sunday or Monday or any specific day.
+	- Judges uses the sequence to show they are doing on the second day is the same as what was done on the preceding day.
+    - Acts explains the manner that Paul, from the first time he arrived, came to the people in Asia.
+
+6. Several passages use the first day as part of a period of time.
 	- 2 Samuel 21:9 - Reference to the __first days__ is the beginning of a period of time.
     - Nehemiah 8:18 - Reference to the __first day unto the last day__ is the whole period of time.
     - Phillipians 1:5 - Reference to the __first day__ until now as a period of time.
-7. Reference to the first day of the week. When the Marys return very early Sunday morning to the place of Christ burial to finish what they could not finish on Friday because of the Sabbath.
+
+7. At the resurrection the first day of the week is mentioned because that is when Christ rose. When the Marys return very early Sunday morning to the place of Christ's burial to finish what they could not finish on Friday because of the Sabbath. There is no command to change the Sabbath or any notion other then that they honored the Sabbath and would not violate it even to prepare Chirst's body. Additionally, Christ rested from his work on the Sabbath for a second time. Once from Creation, and a second from his work of making way for man's salvation.
 	- Matthew 28:1 - In the end of the Sabbath, as it began to dawn toward the **first day** of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 	- Mark 16:1-2 - And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him. __2__ And very early in the morning the **first day** of the week, they came unto the sepulchre at the rising of the sun.
     - Luke 24:1 - Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.
     - John 20:1 - The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
 
-8. Reference to the first day of the week and the appearance of Christ.
+8. Two addtional passages refer to the first day of the week and the appearance of Christ. Again, no mention of a change in the Sabbath.
 	- Mark 16:9 - Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
     - John 20:19 - Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
 
-9. Reference to the first day of the week. Paul was intending to leave the next day. This next day was Sunday or the first day of the week. A day starts at evening, so for Paul to be preaching until midnight, that would have been the dark part of Sunday with the intention to leave during the light part of Sunday. We know this was the intention since the text reads __ready to depart__ and __continued__.
+9. Acts 20:7 - And upon the **first day** of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
+	- Paul was intending to leave the next __morrow__ or morning.
+    - We are told that he preached until midnight.
+    - If he preached until midnFor them to come together on 
+
+This next day was Sunday or the first day of the week. A day starts at evening, so for Paul to be preaching until midnight on the first day, would be , that would have been the dark part of Sunday with the intention to leave during the light part of Sunday. We know this was the intention since the text reads __ready to depart__ and __continued__.
 	- Acts 20:17 - And upon the **first day** of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
 
 10. Reference to collecting offerings on the first day of the week.
@@ -76,38 +91,46 @@ Still think that it is not important or the evidence is not there to keep the Lo
 
 Letter from C.F. Thomas, Chancellor of Cardinal Gibbons on October 28, 1895:
 
-Of course the Catholic Church claims that the change was her act…And the act is a MARK of her ecclesiastical power and authority in religious matters.
+Of course the Catholic Church claims that the change was her actâ€¦And the act is a MARK of her ecclesiastical power and authority in religious matters.
 
 
 
 
 So there are people that will argue that Sunday is the seventh day of the week since in some countries they have already changed their calendars to support this by starting the week on Monday and ending on Sunday. There are still others that will argue that how can we know what the real seventh day of the week is. Did they not change the calendar in the past and is it not possible that the days of the week are confused over time?
 
-These arguments are easily disproved or dismissed since in nearly all languages of the world, the word for the seventh day of the week (commonly called Saturday in English) is named Sabbath. 
+The first of these arguments is susspect since we can look at several languages and their word for the seventh day of the week (commonly called Saturday in English) is Sabbath. Below are some languages that use the word Sabbath as their day for the seventh day of the week.
+- Russian - Суббота or Субботу
+- Ukrainian - Суботу or Суботи
+- Spanish - Sábado
+- Portugese - Sábado
+- Hungarian - Szombat
+- Catalan - Dissabte
+- Bulgarin - Събота
+- Arabic - السبت
+- Czech - Sobotu
+- Greek - Σάββατο
+- Hebrew - שבת
+- Slovak - Sobotu
+- Yucatec Maya - Sábado
+- Filipino - Sabado
+- Polish - Sobota
+- Croatian - Subota
+- Italian - Sabato
 
-ie: languages that use this term
+If the day is called Sabbath and the other six days have other names, some named after planets for a mythical god or some other convention, it should be quite clear to conclude what day the seventh day of the week really is.
 
-If the day is called Sabbath and the other six days have names of planets or greek gods or whatever they are named after, it should be quite clear when reading the Bible which day is the seventh.
+Furthermore, when we read the Bible and Revelation tells us the final conflict revolves around worship (to God or the beast):
+- Revelation 14:7; 15:4; 19:10 - Tell us to worship God.
+- Revelation 13:4, 8; 14:9, 11-12, 15; 16:2 - Worship to the beast (that is the papacy, Pope, or Satan)
+- Revelation 14:9 - Warning to those that worship the beast, his image, or receive his mark.
+- Revelation 14:11; 19:20 - Gives the consequences of worship the beast, his image, or receive his mark.
+- Revelation 20:4 - Describes the saints as being rewarded for not worshiping the beast, his image, or recieving his mark.
 
-Furthermore, when we read the Bible and in Revelation the final conflict revolves around worship: worship to God and worship to the beast (that is the papacy, Pope, or Satan); and we find that the Pope of Rome demains Sunday (or the first day of the week) to be sacried and all men to worship that day. Regardless of what calendar you use or where you allow a day to fall on that calendar, it is again quite clear what day of the week is the Sabbath of the Lord our God. The seventh day is the Sabbath and is always followed by the first day (Sunday). If Satan wants your worship on Sunday, then the day before would be Sabbath.
+Following this, we find that the Pope of Rome demands Sunday (or the first day of the week) to be sacried and all men to worship that day. Regardless of what calendar you use or where you allow a day to fall on that calendar, it is again quite clear what day of the week is the Sabbath of the Lord our God and which day is Sunday the first day of the week. The seventh day is the Sabbath and is always followed by the first day (Sunday). If Satan wants your worship on Sunday, then the day before would be Sabbath. Just because the printed version has the days in a strange order does not make that day the seventh. Besides, the only reason we have seven days in the week is because of the seven literal days of creation, all the way back in Genesis 1 and 2.
 
-Here we have three quite clear proofs to the student of the Bible that would want to know what day is the Lord's day and when we should be worshiping the Lord.
+In Revelation 14, John writes, "**6** And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, **7** Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters." here again we have a clear pointing back to creation and the seventh day Sabbath. Through the prophet John, God is trying to take us back to true worship and calling our attention to the fact that he made everthing and is worthy of the worship on His holy day.
+
 
 So does it matter what day? God is really only conserned that we worship Him. The day should not matter so much, right? Well, the short answer is `NO`. The day you worship Him does matter. It does at least two major things by obeying His commands. The first is makes a clear distenction between who you are serving and who everyone else is serving. The second is as to obedience; do you obey God or man?
 
 While it is true that some in true ignorance worship God on the wrong day and in the past and to a lesser degree the present time, God may "wink at their ignorance" (Bible reference); He does not hold all accountable at the same level. Those that are made aware of His truth and willingly ignore or refuse to obey Him show whom they truely serve.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
