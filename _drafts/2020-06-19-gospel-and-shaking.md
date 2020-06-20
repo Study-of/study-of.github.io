@@ -54,4 +54,9 @@ If it is of God, then it is His. Or, it is not. God is powerful enough to influe
 When we disregard God's word/leading, we remove His "ability" to lead (give visions and dreams). If we expect to have Him lead us, we might want to obey the councel that He has given and share that councel with others and do this without shame or fear.
 
 
+**Ellen White on Revised Versions**
+> They come to me, those that are copying my writings, and say, “Now here is the better revised words, and I think I will put that in.” Don’t you change one word, not a word. The revised edition we do not need at all. We have got the word that Christ has spoken Himself and given us. And don’t you in my writings change a word for any revised edition. There will be revised editions, plenty of them, just before the close of this earth’s history, and I want all my workers to understand, and I have got quite a number of them. I want them to understand that they are never to take the revised word, and put it in the place of the plain, simple words just as they are. They think they are improving them, but how do they know but that they may switch off on an idea, and give it less importance than Christ means them to have. -22LtMs, Ms188, 1907, par. 26
+https://m.egwwritings.org/en/book/14072.8025001#8025032
+
+
 
