@@ -64,3 +64,11 @@ https://m.egwwritings.org/en/book/14072.8025001#8025032
 **Do You Believe?**
 Jesus heals the man with a withered hand.
 Matthew 3:5
+
+**It is the Job of the Holy Spirit**
+Evil Spirits fall before Jesus and declare He is the Son of God.
+Matthew 3:11-12
+
+
+
+
