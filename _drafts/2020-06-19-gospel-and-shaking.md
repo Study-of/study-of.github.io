@@ -61,4 +61,6 @@ Do not edit/revise the word of God or those that wrote under inspiration His tho
 https://m.egwwritings.org/en/book/14072.8025001#8025032
 
 
-
+**Do You Believe?**
+Jesus heals the man with a withered hand.
+Matthew 3:5
