@@ -44,4 +44,13 @@ https://m.egwwritings.org/en/book/19.2502#2508
 "Must be a converted people" - 3TT 354.5
 
 
+"The Spirit of Prophecy" "Treasure Chest"
+
+
+If it is of God, then it is His. Or, it is not. God is powerful enough to influence as He sees fit, and when He leads, He will surely lead.
+
+
+When we disregard God's word/leading, we remove His "ability" to lead (give visions and dreams). If we expect to have Him lead us, we might want to obey the councel that He has given and share that councel with others and do this without shame or fear.
+
+
 
