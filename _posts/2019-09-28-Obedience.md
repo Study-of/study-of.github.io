@@ -1,8 +1,7 @@
 ---
 published: true
 categories:
-  - study
-  - obedience
+  - draft
 tags:
   - draft
 ---
