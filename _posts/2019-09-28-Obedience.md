@@ -7,7 +7,7 @@ tags:
 ---
 {% assign biblegateway = site.data.settings['biblegateway'] %}
 
-The idea of obedience flys straight in the face of free willed people. Especially those of use that are not familiar with living under a monarchy or oppressive government. All throughout the Bible we are called to **_OBEDIENCE_**. Sense **_OBEDIENCE_** is required, we should answer some questions before we just straight up dismiss it as not possible or undesirable. Let us answer the following questions:
+The idea of obedience flys straight in the face of free willed people. Especially those of use that are not familiar with living under a monarchy or oppressive government.<!--more--> All throughout the Bible we are called to **_OBEDIENCE_**. Sense **_OBEDIENCE_** is required, we should answer some questions before we just straight up dismiss it as not possible or undesirable. Let us answer the following questions:
 1. What or who should we commit **_OBEDIENCE_** to?
 2. Why should we be willing or want (or desire) to give **_OBEDIENCE_**?
 3. Are we we able and how can we fulfill the level of **_OBEDIENCE_** required?
