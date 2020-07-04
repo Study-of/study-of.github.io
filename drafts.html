@@ -1,0 +1,20 @@
+<div class="message">
+  DRAFTS - These studies are <b>being researched</b>.
+</div>
+
+<div class="posts">
+  {% for post in site.categories.drafts %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">... {{ post.title }}</a></h2>
+      
+      <div class="date">Published: {{ post.date | date: "%A, %B %-d, %Y" }}</div>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
